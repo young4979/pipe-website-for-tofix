@@ -1,5 +1,5 @@
 {
-    "name": "EC60H",
+    "name": "tofix607r",
     "vendorId": "0xCAFE",
     "productId": "0x8006",
     "keycodes": ["qmk_lighting"],
